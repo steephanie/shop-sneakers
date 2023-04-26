@@ -1,5 +1,5 @@
 <h4 align="center">
-    <img src="assets/LOGO.png" width="200" alt="Sneakers Heads" />
+    <img src="assets/logo.png" width="200" alt="Sneakers Heads" />
 </h4>
 
 ## Sobre
@@ -45,5 +45,5 @@ Para rodar este projeto é necessário ter instalado na sua máquina as seguntes
      <img src="public/home-removido.png" height="420" width="185">
      <img src="public/carrinho-produto.png" height="420" width="185">
      <img src="public/carrinho-vazio.png" height="420" width="185">
-     <img src="public/MENU.png" height="420" width="185">
+     <img src="public/menu.png" height="420" width="185">
 </h1>
