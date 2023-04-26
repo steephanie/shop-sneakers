@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Shop Sneakers",
+    "slug": "shop-sneakers",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    }
+  }
+}
